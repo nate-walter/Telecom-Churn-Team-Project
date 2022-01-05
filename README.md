@@ -18,16 +18,6 @@ Phase 3 Flatiron project developing ML models and predictions for SyriaTel
 * [Conclusions](#Conclusion)
 * [Repository Structure](#Repository-Structure)
 
-## Structure
-```
-.
-├── Pitch.pdf
-├── README.md
-├── Syriatel_model_notebook.ipynb
-└── data
-    └── churn-data-set.csv
-```
-
 
 <img src=https://www.logolynx.com/images/logolynx/f7/f75fdb74aaa4f44040e65f7ed4a0952f.jpeg width="400" height="150">
 
@@ -81,3 +71,13 @@ Stacking is the best approach because it combines the results of multiple models
 ## Conclusion
 
 When creating predictive machine learning models, being experimental with the models can produce results approaching absolute certainty. Our iterative process brought us to a complex stacking algorithm that produced the best predictive results on whether a SyriaTel customer will churn or not.  
+
+## Structure
+```
+.
+├── Pitch.pdf
+├── README.md
+├── Syriatel_model_notebook.ipynb
+└── data
+    └── churn-data-set.csv
+```
